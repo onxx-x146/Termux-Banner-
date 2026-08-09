@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-URL="https://github.com/onxx-x146/Termux-Banner/raw/refs/heads/main/install.tar.gz"
+URL="https://github.com/onxx-x146/Termux-Banner-/raw/refs/heads/main/install.tar.gz"
 ARCHIVE="install.tar.gz"
 
 # Clear terminal
