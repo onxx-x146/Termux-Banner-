@@ -1,9 +1,9 @@
-# ONXX Termux Theme
+# Termux-Banner 👼🏻
 
 Single-run Termux setup package based on the supplied `onas.zip`.
 
 Installs/configures:
-- Bash ONXX banner and `onxx:~#` prompt
+- Bash name banner and `name ` prompt
 - Fish configuration with safe Fish syntax
 - Starship config from the supplied file
 - Termux colors from the supplied file
@@ -14,7 +14,7 @@ Installs/configures:
 
 From Termux, enter the extracted folder and run:
 
-    bash install.sh
+    git clone https://gitHub.com/onxx-x146/Termux-Banner.git
 
 Then restart Termux, or run:
 
