@@ -1,6 +1,6 @@
 # Termux-Banner 👼🏻
 
-Single-run Termux setup package based on the supplied `onas.zip`.
+Single-run Termux setup package based on the supplied @
 
 Installs/configures:
 - Bash name banner and `name ` prompt
@@ -14,7 +14,10 @@ Installs/configures:
 
 From Termux, enter the extracted folder and run:
 
-    git clone https://gitHub.com/onxx-x146/Termux-Banner.git
+    git clone https://gitHub.com/onxx-x146/Termux-Banner-.git
+    cd Termux-Banner-
+    chmod +x install.sh
+    ./install.sh
 
 Then restart Termux, or run:
 
