@@ -1,3 +1,4 @@
+# I am Hari  🫅🏻 
 # Termux-Banner 👼🏻
 <img width="716" height="604" alt="28228" src="https://github.com/user-attachments/assets/25cbd377-fa4a-4ef0-b5f2-b094a11dfff1" />
 
