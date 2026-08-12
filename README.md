@@ -20,7 +20,6 @@ From Termux, enter the extracted folder and run:
     cd Termux-Banner-
     chmod +x install.sh
     ./install.sh
-    set -U fish_greeting
 
 Then restart Termux, or run:
 
