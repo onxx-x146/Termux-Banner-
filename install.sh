@@ -14,7 +14,8 @@ cat <<'BANNER'
 ██    ██ ██ ██  ██   ███
 ██    ██ ██  ██ ██  ██ ██
  ██████  ██   ████ ██   ██
-    BY ONXX 🫅🏻 IG _insrnx_
+    BY ONXX 🫅🏻 
+    INSTAGRAM: _.l2l_
 BANNER
 printf '\033[0m\n'
 
